@@ -1,4 +1,5 @@
- #include<stdio.h>
+// write a programe to print table of a given number//
+#include<stdio.h>
  int main()
  {
     int n;
