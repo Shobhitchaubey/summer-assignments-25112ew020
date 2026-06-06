@@ -1,3 +1,4 @@
+// write a programe to count nnumber of  digits in a given number//
 #include <stdio.h>
 int main(){
     int n,count=0;
